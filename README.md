@@ -1,8 +1,10 @@
-Olá, Eu sou o Adriano 😃👋
+<h1 align="center">👩🏻‍💻 Hi, I’m Adriano</h1> 
+<h2 align="center">Frontend JavaScript Web Developer</h2> 
 
-- 🔭 Atualmente buscando uma opurtunidade de me desenvolver como Developer Front-end.
-- 🌱 Estou estudando JavaScript
-- 😄 Pronouns: Ele/dele
+
+- ✅ Open to work
+- 🌱 I’m currently mastering JavaScript
+
  
  <div align="center">
   <a href="https://github.com/AdrianoEscarabote">
@@ -15,6 +17,7 @@ Olá, Eu sou o Adriano 😃👋
     <img align="center" alt="Adriano-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
     <img align="center" alt="Adriano-Bootstrap" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
 
 ##
