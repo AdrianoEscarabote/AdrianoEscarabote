@@ -23,8 +23,8 @@
    <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Adriano-Nextjs" height="30" width="40" src="https://user-images.githubusercontent.com/29199730/167189720-e9d60a01-2e4e-4515-bb70-84badd58ef00.svg">
    <img align="center" alt="Adriano-styled-components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
-  
-
+   <img align="center" alt="Adriano-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">  
+   
 ##
 
 <div>
