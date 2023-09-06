@@ -1,42 +1,76 @@
-<h1 align="center">👩🏻‍💻 Hi, I’m Adriano</h1> 
-<h2 align="center">Frontend JavaScript Web Developer</h2> 
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdrianoEscarabote-lt&label=Profile%20views&color=0e75b6&style=flat" alt="AdrianoEscarabote" /> </p>
+I'm Adriano Escarabote, I'm a Full Stack Developer, and I'm seeking my first opportunity to enter the job market.
 
- 
- <div align="center">
-  <a href="https://github.com/AdrianoEscarabote">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoEscarabote&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoEscarabote&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+[![Twitter Follow](https://img.shields.io/twitter/follow/drianEscarabote?style=social)](https://twitter.com/drianEscarabote)
+[![Linkedin: AdrianoEscarabote](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/adrianoescarabote/)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoEscarabote&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117" alt="Caio Schwab github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoEscarabote&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Adriano-Sass" height="30" width="40" src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
-    <img align="center" alt="Adriano-tailwindcss" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-    <img align="center" alt="Adriano-Bootstrap" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Adriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Adriano-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-   <img align="center" alt="Adriano-vue" height="30" width="40" src="https://camo.githubusercontent.com/077997d77bfa74b144c9e286e65143b4edc547dc948098491264bb2dde282d6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2e737667">
-   <img align="center" alt="Adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Adriano-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-   <img align="center" alt="Adriano-styled-components" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
-   <img align="center" alt="Adriano-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">   
-   <img align="center" alt="Adriano-Jasmine" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
-   <img align="center" alt="Adriano-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-   <img align="center" alt="Adriano-Storybook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
-   <img align="center" alt="Adriano-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Adriano-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-   <img align="center" alt="Adriano-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-   
+## 🚀 Projects
 
-##
+Here are some interesting projects I've been working on:
 
-<div>
-  <a href="https://www.linkedin.com/in/adriano-escarabote-944b02233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### Link Sharing App
 
-  ![Snake animation](https://github.com/AdrianoEscarabote/AdrianoEscarabote/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+[Source code](https://github.com/AdrianoEscarabote/Link-sharing-app)
+
+This is my first full-stack project, a link sharing app. It allows users to create, read, update and delete links as well as preview websites in a mobile mockup.
+
+### Kanban Task Management App
+
+[Source code](https://github.com/AdrianoEscarabote/Kanban-task-management-web-app)
+
+A Kanban task management app where you can create and organize tasks into different columns.
+
+### Audiophile E-Commerce Website
+
+[Source code](https://github.com/AdrianoEscarabote/Audiophile-e-commerce-website)
+
+An eCommerce site for audio lovers where you can buy high quality headphones and speakers.
+
+## ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+Backend:
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+Cloud:
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
+Tools:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+IDEs:
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white)
+![Sublime](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
