@@ -12,19 +12,17 @@ I'm Adriano Escarabote, I'm a Full Stack Developer, and I'm seeking my first opp
 
 ## 🚀 Projects
 
-Here are some interesting projects I've been working on:
+### Personal finance app
+
+[Source code](https://github.com/AdrianoEscarabote/personal-finance-app)
+
+A full-stack personal finance app to manage transactions, budgets, savings goals, and recurring bills with user authentication.
 
 ### Link Sharing App
 
 [Source code](https://github.com/AdrianoEscarabote/Link-sharing-app)
 
 This is my first full-stack project, a link sharing app. It allows users to create, read, update and delete links as well as preview websites in a mobile mockup.
-
-### Kanban Task Management App
-
-[Source code](https://github.com/AdrianoEscarabote/Kanban-task-management-web-app)
-
-A Kanban task management app where you can create and organize tasks into different columns.
 
 ### Audiophile E-Commerce Website
 
