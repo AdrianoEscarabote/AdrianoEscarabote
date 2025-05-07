@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm Adriano Escarabote — a Full Stack Developer based in São Paulo, Brazil.
-With 2 years of hands-on experience building full-stack applications using technologies like React, Next.js, Node.js, and TypeScript, I focus on clean code, scalability, and delivering high-quality solutions. I'm currently open to job opportunities where I can grow and contribute to impactful projects.
+Hi, I'm Adriano Escarabote — Full Stack Developer from São Paulo, Brazil.
+
+I have 2 years of experience building full-stack web apps with React, Next.js, Node.js, and TypeScript. I focus on clean code, performance, and usability. I'm currently open to new opportunities.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/drianEscarabote?style=social)](https://twitter.com/drianEscarabote)
 [![Linkedin: AdrianoEscarabote](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/adrianoescarabote/)
