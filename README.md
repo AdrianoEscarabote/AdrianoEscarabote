@@ -8,7 +8,7 @@ I have 2 years of experience building full-stack web apps with React, Next.js, N
 [![Linkedin: AdrianoEscarabote](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianoescarabote/)](https://www.linkedin.com/in/adrianoescarabote/)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoEscarabote&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117" alt="Caio Schwab github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoEscarabote&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=6495ED&bg_color=0d1117" alt="Adriano Escarabote github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoEscarabote&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=0d1117" />
 </div>
 
